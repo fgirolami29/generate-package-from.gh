@@ -1,0 +1,26 @@
+{
+  "name": "generate-package-from.gh",
+  "version": "1.0.0",
+  "description": "Node.js package from information in a GitHub repository ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fgirolami29/generate-package-from.gh"
+  },
+  "keywords": [],
+  "author": "fgirolami29",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fgirolami29/generate-package-from.gh/issues"
+  },
+  "homepage": "https://github.com/fgirolami29/generate-package-from.gh",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^11.1.0",
+    "path": "^0.12.7"
+  }
+}

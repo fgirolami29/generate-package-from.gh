@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/fgirolami29/generate-package-from.gh",
   "dependencies": {
-    "axios": "^1.7.7",
+    "axios": "^1.16.0",
     "fs-extra": "^11.2.0",
     "inquirer": "^11.1.0",
     "path": "^0.12.7"
